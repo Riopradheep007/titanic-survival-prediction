@@ -2,7 +2,7 @@
 I took this project in kaggle.The main moto of this project is to predict the survival ofhuman in the titanic disaster.
 
 Execution of the code:
-   1. first run the future engineering.py In that code I did all the feature engineering part.All the datas are cleaned,now the data is ready to run the machine learning model.
+   1. first run the future engineering.py In that code I did all the feature engineering part.All the datas are cleaned,now the       data is ready to run the machine learning model.
    
    2.cross validate the different model and then I choose the best model for prediction.
     
